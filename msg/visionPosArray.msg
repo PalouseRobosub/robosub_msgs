@@ -1,1 +1,1 @@
-visionPos[] data
+robosub_msgs/visionPos[] data

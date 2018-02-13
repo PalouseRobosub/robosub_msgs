@@ -1,1 +1,1 @@
-rgb[] data
+robosub_msgs/rgb[] data

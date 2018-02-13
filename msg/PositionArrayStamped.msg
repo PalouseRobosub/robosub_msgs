@@ -1,2 +1,2 @@
 std_msgs/Header header
-robosub/Position[] positions
+robosub_msgs/Position[] positions
