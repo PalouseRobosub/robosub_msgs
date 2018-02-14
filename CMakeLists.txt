@@ -7,6 +7,7 @@ project(robosub_msgs)
 find_package(catkin REQUIRED COMPONENTS
   geometry_msgs
   std_msgs
+  sensor_msgs
   message_generation
 )
 
@@ -50,6 +51,7 @@ add_message_files(
    control.msg
    control_status.msg
    DetectionArray.msg
+   DetectionImage.msg
    Detection.msg
    Euler.msg
    Float32Stamped.msg
@@ -88,6 +90,7 @@ add_message_files(
    DEPENDENCIES
    geometry_msgs
    std_msgs
+   sensor_msgs
  )
 
 ################################################
