@@ -55,6 +55,7 @@ add_message_files(
    Float32Stamped.msg
    gamepad.msg
    HydrophoneDeltas.msg
+   HydrophoneStatus.msg
    joystick.msg
    ObstaclePosArray.msg
    ObstaclePos.msg
