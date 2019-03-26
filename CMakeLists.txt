@@ -68,6 +68,8 @@ add_message_files(
    Trax.msg
    visionPosArray.msg
    visionPos.msg
+   SLAMpoints.msg
+   SLAMPOINTS_array.msg 
  )
 
 ## Generate services in the 'srv' folder
